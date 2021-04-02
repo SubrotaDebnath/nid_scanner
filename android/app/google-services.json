@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659025894749",
+    "project_id": "nid-scanner",
+    "storage_bucket": "nid-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659025894749:android:ad1afcf96af15d02551cb4",
+        "android_client_info": {
+          "package_name": "subrota.shuvro.nid_scanner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659025894749-e4gqot62l5p23ogu9fnl1oih9gh5jghq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0-3bUHwWmWF3IdnOvxZju6-N6h6fCeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659025894749-e4gqot62l5p23ogu9fnl1oih9gh5jghq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
