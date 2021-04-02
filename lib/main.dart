@@ -80,6 +80,7 @@ class _MyAppState extends State<MyApp> {
     }
 
     Navigator.of(context).pop();
+
     Navigator.of(context)
         .push(MaterialPageRoute(builder: (context) => Details(_text)));
   }
